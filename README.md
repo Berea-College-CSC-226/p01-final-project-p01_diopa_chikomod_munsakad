@@ -28,7 +28,7 @@ buttons on the screen.`
     README. You can do this by saving an image in the repository and linking to it. See the sample CRC card below - 
     and REPLACE it with your own:
 
-![card1][image/crc1.png]
+![card1](image/crc1.png)
 
 **Branches**: This project will **require** effective use of git. 
 
