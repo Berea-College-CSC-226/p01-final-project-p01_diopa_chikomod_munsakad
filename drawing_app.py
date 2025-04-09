@@ -70,7 +70,7 @@ class DrawingApp:
 
 def main():
     """
-    Creates GUI and uses button, textbox and label GUI widgets for the screen
+    Creates GUI and uses button, textbox and label GUI widgets
 
     :return: None
     """
