@@ -51,6 +51,7 @@ section as you go. DO NOT forget about it!
 
 ---
 
+
 ## Milestone 2: Code Setup and Issue Queue
 
 Most importantly, keep your issue queue up to date, and focus on your code. 🙃
@@ -68,14 +69,14 @@ What has surprised you so far? Describe your general feelings. Be honest with yo
 
 Indicate what percentage of the project you have left to complete and how confident you feel. 
 
-❗️**Completion Percentage**: `0 - 100%`
+❗️**Completion Percentage**: `80%`
 
 ❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some 
   strategies you can employ to increase the likelihood that you'll be successful in completing this project 
   before the deadline.
 
 ```
-    **Replace this text with your reflection
+    We very confident about our project and we should be able to meet the deadline. 
 ```
 
 ---
