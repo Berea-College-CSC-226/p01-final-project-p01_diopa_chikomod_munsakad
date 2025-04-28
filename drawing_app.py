@@ -17,7 +17,9 @@ import tkinter as tk
 from PIL import ImageGrab, Image, ImageTk
 
 import turtle
+
 import os
+from tkinter import messagebox
 os.environ['PATH'] = r'C:\Program Files\gs\gs10.02.1\bin;' + os.environ['PATH']
 import datetime
 from PIL import ImageGrab
@@ -134,6 +136,20 @@ class DrawingApp:
 
         self.status_text.set('Saved drawing to ' + filename)
 
+    def delete_all_drawings(self):
+        confirm = messagebox.askyesno("Erase All", "Are you sure you want to delete all saved drawings?")
+        if confirm:
+            folder = "saved_drawings"
+            for filename in os.listdir(folder):
+                file_path = os.path.join(folder, filename)
+                try:
+                    if os.path.isfile(file_path):
+                        os.remove(file_path)
+                except Exception as e:
+                    print(f"Failed to delete {file_path}. Reason: {e}")
+            self.status_text.set("All drawings erased!")
+            messagebox.showinfo("Success", "All saved drawings have been deleted!")
+
     def show_saved_drawings(self):
         # Create a new window
         saved_window = tk.Toplevel(self.root)
@@ -151,6 +167,11 @@ class DrawingApp:
         if not drawings:
             tk.Label(saved_window, text="No saved drawings found!").pack()
             return
+
+        # Add "Delete All" Button at the top
+        delete_button = tk.Button(saved_window, text="Delete All Saved Drawings", bg="red", fg="white",
+                                  command=self.delete_all_drawings)
+        delete_button.pack(pady=10)
 
         # Canvas with scrollbar
         canvas = tk.Canvas(saved_window)
@@ -184,7 +205,6 @@ class DrawingApp:
             label.pack(pady=10)
 
             self.saved_images.append(img_tk)  # Keep all images referenced
-
 
 
 def main():
