@@ -103,7 +103,7 @@ deficiencies that remain in your code. Bugs found that aren't acknowledged in th
 bug 1: One issue with the saving is that it does not take the screenshot properly and shows outside the window a little 
 bit, especially if you move the window around the screen it will be off center.
 
-### ❗Peer Evaluation
+### Peer Evaluation
 
 In our team, we collaborated effectively to complete the project and each member contributed their fair share. Throughout 
 the development process, we divided the tasks efficiently and regularly communicated to ensure the features were 
@@ -118,7 +118,7 @@ If there had been any member who didn't contribute fairly or failed to meet thei
 it during our team discussions, but that was not the case. We worked well together, and I believe all members made 
 valuable contributions to the success of this project.
 
-### ❗Reflection
+### Reflection
 
 Each partner should write three to four well-written paragraphs address the following (at a minimum):
 - Why did you select the project that you did?
@@ -157,7 +157,33 @@ Each partner should write three to four well-written paragraphs address the foll
 ```
 
 ```
-    Partner 2: **Replace this text with your reflection
+    Partner 2: Dingani Munsaka
+    
+The first step in selecting this project was to analyze the requirements of the project. The main requirement was to
+ create an interactive project, either by using Pygame or turtles. So we chose a turtle and a GUI as our main elements 
+ of the project. We thought it would be a cool thing to use a GUI to create an app, and the only app that we thought 
+ of at that time was the drawing app, as we used turtle to draw more in class, and we had experience with turtle. Our
+  final project reflected our initial design about 90% of it because it was hard for us to figure out the save button. 
+  The screenshot method was hard as it did not take the best screenshot, so that did not reflect our initial design, 
+  and it was not as easy as we thought from the beginning.
+
+From this project, I learnt a lot as a rising programmer by making errors and correcting them. One of the most 
+important aspects of this project was the teamwork, and I learnt how to communicate well with my team members in such 
+a way that would not lead to conflict. I understood that communication is the key to a good team, and we communicated 
+well with my other team members. For example, we addressed concerns like not showing the app or any excuses were 
+discussed ahead making sure that our plans are adjusted accordingly. I also learnt how programming works in a team, 
+understanding that there is no perfect programmer; if plans do not go well, we restart again, accepting that errors
+ are part of learning.
+
+The hardest part of the project was to initiate our save button to be able to save our files. We did not research until
+ we reached nearly the final weeks, when everything was done and we were only left with the save button that is then we
+  realized that we are in trouble. Fortunately, we did get help from Dr Heggen, and that directed us in a positive 
+  direction. Next time, I believe that I should do more research on our project before rushing into putting things 
+  together, so that we know what challenges we might encounter ahead of time. One thing that I liked about my partners
+   is their communication, which made our journey easier as we did not have any problems in terms of communication at 
+   all. I am grateful to be part of the team.
+
+
 ```
 
 ---
