@@ -50,6 +50,9 @@ and describe how you integrated the ideas or code into your program. This includ
 helped you, AI tools you've used, and any other resources that are not solely your own contribution. Update this 
 section as you go. DO NOT forget about it!
 
+#### Acknowledgements:
+Dr Heggen, https://docs.python.org/3/search.html?q=pillow, https://www.python.org/doc/
+
 ---
 
 ## Milestone 2: Code Setup and Issue Queue
