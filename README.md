@@ -2,8 +2,8 @@
 
 ## Instructions
 
-❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
-  they accompany. (This means that your final README should have no ❗️in it!)
+Exclamation Marks indicate action items; you should remove these emoji as you complete/update the items which 
+they accompany. (This means that your final README should have no exclamation marks ️in it!)
 
 **Author(s)**: Abdou Diop, Dumisani Chikomo, Dee Munsaka
 
@@ -29,6 +29,7 @@ buttons on the screen.`
     and REPLACE it with your own:
 
 ![card1](image/crc2.png)
+https://docs.google.com/document/d/1FZlHkKA3WfPjsAJrdMjR3Mp-IgVehfmlljFzMg26k0Y/edit?tab=t.0#heading=h.jst2qtmopr1g
 
 **Branches**: This project will **require** effective use of git. 
 
@@ -126,7 +127,8 @@ Each partner should write three to four well-written paragraphs address the foll
 - How well did you work with your partner? What made it go well? What made it challenging?
 
 ```
-    Partner 1: We selected the drawing application project because we wanted to intergrate graphical user interfaces (GUIs) 
+    Partner 1: Dumisani Chikomo
+    We selected the drawing application project because we wanted to intergrate graphical user interfaces (GUIs) 
     and programming.It allowed us to combine Python with Tkinter and Turtle, which was a great opportunity to apply 
     event-driven programming.Additionally, We wanted to build something interactive that could immediately showcase 
     the effects of the code, such as drawing on the screen and changing pen properties.
@@ -141,24 +143,47 @@ Each partner should write three to four well-written paragraphs address the foll
     entire window as an image to save drawings was another valuable skill I gained, along with handling user errors 
     like invalid input.
      
-     The hardest part was coordinating the buttons to function properly with the drawing tools was particularly challenging.
-     Debugging these interactions took time and effort to make everything work smoothly.
+    The hardest part was coordinating the buttons to function properly with the drawing tools was particularly challenging.
+    Debugging these interactions took time and effort to make everything work smoothly.
      
-     Next time, I would focus on organizing the code better by breaking it into more modular functions. This would make 
-     it easier to modify and scale the app in the future. Additionally, I would make the UI more user-friendly with icons
+    Next time, I would focus on organizing the code better by breaking it into more modular functions. This would make 
+    it easier to modify and scale the app in the future. Additionally, I would make the UI more user-friendly with icons
      or visual cues to improve the overall user experience, especially for beginners.
       
-      I worked well with my partners, dividing tasks based on our strengths. The challenge was syncing our parts together, 
-      especially with the buttons and interactions, but clear communication helped us align our work and overcome these 
-      challenges.
+    I worked well with my partners, dividing tasks based on our strengths. The challenge was syncing our parts together, 
+    especially with the buttons and interactions, but clear communication helped us align our work and overcome these 
+    challenges.
 ```
 
 ```
-    Partner 2: **Replace this text with your reflection
+    Partner 2: Dingani Munsaka
+    The first step in selecting this project was to analyze the requirements of the project. The main requirement was to
+    create an interactive project, either by using Pygame or turtles. So we chose a turtle and a GUI as our main elements 
+    of the project. We thought it would be a cool thing to use a GUI to create an app, and the only app that we thought 
+    of at that time was the drawing app, as we used turtle to draw more in class, and we had experience with turtle. Our
+    final project reflected our initial design about 90% of it because it was hard for us to figure out the save button. 
+    The screenshot method was hard as it did not take the best screenshot, so that did not reflect our initial design, 
+    and it was not as easy as we thought from the beginning.
+
+    From this project, I learnt a lot as a rising programmer by making errors and correcting them. One of the most 
+    important aspects of this project was the teamwork, and I learnt how to communicate well with my team members in such 
+    a way that would not lead to conflict. I understood that communication is the key to a good team, and we communicated 
+    well with my other team members. For example, we addressed concerns like not showing the app or any excuses were 
+    discussed ahead making sure that our plans are adjusted accordingly. I also learnt how programming works in a team, 
+    understanding that there is no perfect programmer; if plans do not go well, we restart again, accepting that errors
+    are part of learning.
+
+    The hardest part of the project was to initiate our save button to be able to save our files. We did not research until
+    we reached nearly the final weeks, when everything was done and we were only left with the save button that is then we
+    realized that we are in trouble. Fortunately, we did get help from Dr Heggen, and that directed us in a positive 
+    direction. Next time, I believe that I should do more research on our project before rushing into putting things 
+    together, so that we know what challenges we might encounter ahead of time. One thing that I liked about my partners
+    is their communication, which made our journey easier as we did not have any problems in terms of communication at 
+    all. I am grateful to be part of the team.
 ```
 
 ```
-    Partner 3:
+    Partner 3: Abdou Diop
     We decided to select a drawing application as the foucs of our project because it seemed
     like a good way to apply our knowledge of classes, turtle, and tkinter into one project.
     Overall, it helped us better understand the functionality of those three components when
