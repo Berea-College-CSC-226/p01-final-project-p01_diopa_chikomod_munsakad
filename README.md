@@ -100,10 +100,7 @@ Every program has bugs or features that had to be scrapped for time. These bugs 
 You should already have a few items in here from the prior weeks. Create a new issue for any undocumented errors and 
 deficiencies that remain in your code. Bugs found that aren't acknowledged in the queue will be penalized.
 
-bug 1: One issue with the saving is that it does not take the screenshot properly and shows outside the window a little 
-bit, especially if you move the window around the screen it will be off center.
-
-### ❗Peer Evaluation
+### Peer Evaluation
 
 In our team, we collaborated effectively to complete the project and each member contributed their fair share. Throughout 
 the development process, we divided the tasks efficiently and regularly communicated to ensure the features were 
@@ -118,7 +115,7 @@ If there had been any member who didn't contribute fairly or failed to meet thei
 it during our team discussions, but that was not the case. We worked well together, and I believe all members made 
 valuable contributions to the success of this project.
 
-### ❗Reflection
+### Reflection
 
 Each partner should write three to four well-written paragraphs address the following (at a minimum):
 - Why did you select the project that you did?
