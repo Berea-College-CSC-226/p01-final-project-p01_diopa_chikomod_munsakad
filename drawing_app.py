@@ -7,7 +7,7 @@
 # Purpose: Use turtles and tkinter to design a drawing app
 #
 #######################################################################
-# Acknowledgements: Dr Heggen
+# Acknowledgements: Dr Heggen, https://docs.python.org/3/search.html?q=pillow, https://www.python.org/doc/
 #
 # https://chatgpt.com/share/67faccee-4d40-8008-bfc6-1197659d7563 reference for GUI Implementation
 
